@@ -19,12 +19,36 @@
     text-align: center;
     /* color */
     /* Visual */
-    background: rgb(78, 184, 148);
+    background: rgba(106, 106, 212, 0.712) (78, 184, 148);
 }
 
 #Latitude {
 
     /* Typography */
-    color: blanchedalmond;
+    color: black;
+
+}
+
+
+/* Starting Jumbotron */
+.container_body {
+width: 100pc;
+
+height: 500px;
+
+background-color: rgb(74, 74, 177) ;
+
+
+
+}
+
+.left-box {
+
+    width: 35pc;
+
+    height: 400px;
+    padding: 25px 10px 10px 25px;
+    background-color:  rgb(54, 53, 53) ;
+
 
 }
