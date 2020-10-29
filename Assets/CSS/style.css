@@ -32,7 +32,7 @@
 
 /* Starting Jumbotron */
 .container_body {
-width: 100pc;
+width: 95pc;
 
 height: 500px;
 
@@ -47,7 +47,7 @@ background-color: rgb(29, 133, 182) ;
     width: 35pc;
 
     height: 400px;
-    padding: 25px 10px 10px 25px;
+    padding:40px 10px 10px 25px;
     background-color:  rgb(54, 53, 53) ;
 
 
